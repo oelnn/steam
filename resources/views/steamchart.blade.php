@@ -50,6 +50,8 @@
                             <p>📅 <strong>TERLARIS PER BULAN</strong></p>
                             <ul class="list-unstyled ms-3">
                                 <li>🗓️ MARET 2024</li>
+                                <li>🗓️ FEBRUARI 2024</li>
+                                <li>🗓️ JANUARI 2023</li>
                                 <li>🗓️ DESEMBER 2023</li>
                             </ul>
                             <hr class="border-white">
