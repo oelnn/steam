@@ -85,7 +85,7 @@
                                     </p>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item bg-dark text-white">2. Counter Strike</li>
+                                    <li class="list-group-item bg-dark text-white">2. Counter Strike 2</li>
                                     <li class="list-group-item bg-dark text-white">3. Apex Legend</li>
                                     <li class="list-group-item bg-dark text-white">4. Destiny 2</li>
                                     <li class="list-group-item bg-dark text-white">5. PUBG: BATTLEGROUND</li>
