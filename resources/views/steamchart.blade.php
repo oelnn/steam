@@ -144,6 +144,12 @@
                 <a href="#" class="ms-3 text-white"><i class="bi bi-instagram"></i></a>
                 <a href="#" class="ms-3 text-white"><i class="bi bi-twitter"></i></a>
             </div>
+            <div class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0">
+                <span>SOSIAL MEDIA KAMI</span>
+                <a href="#" class="ms-3 text-white"><i class="bi bi-facebook"></i></a>
+                <a href="#" class="ms-3 text-white"><i class="bi bi-instagram"></i></a>
+                <a href="#" class="ms-3 text-white"><i class="bi bi-twitter"></i></a>
+            </div>
             <p class="col-md-4 mb-0 text-center text-md-end">
                 (2301010138) Jobs (LALU MOCHAMMAD ARANTA THIAR ELKANTA RIZKY ILLAHI)
             </p>
