@@ -225,7 +225,7 @@
             <!-- Profile 2 -->
             <div class="profile-card">
                 <div class="profile-header">
-                    <img src="{{ asset('images/ArthurModeSatir.jpg') }}" alt="ARTHUR DEKKO" class="profile-image">
+                    <img src="{{ asset('images/bckground.webp') }}" alt="ARTHUR DEKKO" class="profile-image">
                     <h2 class="profile-name">ARTHUR EMANUEL DEKKO</h2>
                     <p class="profile-id">2301010097</p>
                 </div>
@@ -241,13 +241,13 @@
         document.addEventListener('DOMContentLoaded', function() {
             // Animasi fade in untuk profile cards
             const profileCards = document.querySelectorAll('.profile-card');
-            
+
             profileCards.forEach((card, index) => {
                 setTimeout(() => {
                     card.style.opacity = '0';
                     card.style.transform = 'translateY(20px)';
                     card.style.transition = 'all 0.6s ease';
-                    
+
                     setTimeout(() => {
                         card.style.opacity = '1';
                         card.style.transform = 'translateY(0)';
@@ -257,15 +257,15 @@
 
             // Smooth scroll untuk navigation
             const navLinks = document.querySelectorAll('.nav-left a, .nav-right a');
-            
+
             navLinks.forEach(link => {
                 link.addEventListener('click', function(e) {
                     const href = this.getAttribute('href');
-                    
+
                     if (href.startsWith('#')) {
                         e.preventDefault();
                         const target = document.querySelector(href);
-                        
+
                         if (target) {
                             target.scrollIntoView({
                                 behavior: 'smooth',
@@ -280,7 +280,7 @@
             window.addEventListener('scroll', function() {
                 const scrolled = window.pageYOffset;
                 const parallax = document.querySelector('body');
-                
+
                 if (parallax) {
                     parallax.style.backgroundPositionY = scrolled * 0.5 + 'px';
                 }
