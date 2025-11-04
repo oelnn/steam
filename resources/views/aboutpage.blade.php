@@ -60,4 +60,9 @@
 
     <script src="{{ asset('js/profile.js') }}"></script>
 </body>
+<<<<<<< Updated upstream
 </html>
+=======
+</html>
+<!-- more push -->
+>>>>>>> Stashed changes
