@@ -212,7 +212,7 @@
             <!-- Profile 1 -->
             <div class="profile-card">
                 <div class="profile-header">
-                    <img src="{{ asset('images/acropolis.jpg') }}" alt="L. M. ARANTA" class="profile-image">
+                    <img src="{{ asset('images/TiarModeSatir.jpg') }}" alt="L. M. ARANTA" class="profile-image">
                     <h2 class="profile-name">L. M. ARANTA THIAR ELKANTA RIZKY ILLAHI</h2>
                     <p class="profile-id">2301010138</p>
                 </div>
