@@ -225,7 +225,7 @@
             <!-- Profile 2 -->
             <div class="profile-card">
                 <div class="profile-header">
-                    <img src="{{ asset('images/bckground.webp') }}" alt="ARTHUR DEKKO" class="profile-image">
+                    <img src="{{ asset('images/ArthurModeSatir.jpg') }}" alt="ARTHUR DEKKO" class="profile-image">
                     <h2 class="profile-name">ARTHUR EMANUEL DEKKO</h2>
                     <p class="profile-id">2301010097</p>
                 </div>
