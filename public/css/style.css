@@ -11,6 +11,7 @@ body {
     min-height: 100vh;
     color: white;
     position: relative;
+    padding-top: 70px; /* beri ruang agar konten tidak tertutup navbar */
 }
 
 body::before {
@@ -29,8 +30,9 @@ body::before {
     z-index: 2;
 }
 
-/* ===== NAVBAR UMUM ===== */
+/* ===== NAVBAR ===== */
 .navbar {
+    width: 100%;
     background: linear-gradient(90deg, #2c3e50, #4a6572);
     backdrop-filter: blur(10px);
     padding: 1rem 3rem;
@@ -39,8 +41,11 @@ body::before {
     align-items: center;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
     border-bottom: 2px solid rgba(255, 255, 255, 0.2);
-    position: relative;
-    z-index: 3;
+    position: fixed; /* agar menempel di atas */
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
 }
 
 .nav-left,
@@ -85,6 +90,7 @@ body::before {
     overflow: hidden;
 }
 
+/* ===== FOOTER ===== */
 footer {
     background-color: rgba(0, 0, 0, 0.8);
     color: #fff;
