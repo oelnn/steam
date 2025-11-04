@@ -26,7 +26,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(135deg, rgba(52, 152, 219, 0.7), rgba(41, 128, 185, 0.8));
+            background: linear-gradient(135deg, rgba(149, 188, 216, 0.7), rgba(69, 148, 201, 0.8));
             z-index: 1;
         }
 
@@ -59,7 +59,7 @@
         }
 
         .nav-left a:hover, .nav-right a:hover {
-            color: #3498db;
+            color: #8ac1e5ff;
         }
 
         .nav-center {
