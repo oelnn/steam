@@ -21,7 +21,7 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(52, 152, 219, 0.7), rgba(41, 128, 185, 0.8));
+    background: linear-gradient(135deg, rgba(42, 56, 65, 0.7), rgba(66, 79, 88, 0.8));
     z-index: 1;
 }
 
