@@ -37,13 +37,14 @@
 </head>
 
 <body>
-    <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg navbar-dark">
-        <div class="container">
-            <a class="navbar-brand" href="#">Home</a>
-            <a class="navbar-brand" href="#">About</a>
-        </div>
-    </nav>
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+        <a class="navbar-brand" href="{{ url('/') }}">Home</a>
+        <a class="navbar-brand" href="{{ url('/about') }}">About</a>
+    </div>
+</nav>
+
 
     <!-- MAIN CONTENT -->
     <div class="container my-5">

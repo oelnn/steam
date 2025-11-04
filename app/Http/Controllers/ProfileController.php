@@ -15,8 +15,8 @@ class ProfileController extends Controller
         $destinasi = [
             ['nama' => 'Acropolis, Yunani', 'gambar' => 'acropolis.jpg'],
             ['nama' => 'Shibuya, Jepang', 'gambar' => 'shibuya.jpg'],
-            ['nama' => 'Cappadocia, Turki', 'gambar' => 'cappadocia.jpg'],
-            ['nama' => 'Giza, Mesir', 'gambar' => 'giza.jpg'],
+            ['nama' => 'Cappadocia, Turki', 'gambar' => 'cappadocia.webp'],
+            ['nama' => 'Giza, Mesir', 'gambar' => 'giza.webp'],
             ['nama' => 'Garuda Wisnu Kencana, Bali', 'gambar' => 'garuda.jpg'],
             ['nama' => 'Huayana, Peru', 'gambar' => 'huayana.jpg'],
             ['nama' => 'Jumeirah, Abu Dhabi', 'gambar' => 'jumeirah.jpg'],
